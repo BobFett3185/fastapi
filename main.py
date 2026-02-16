@@ -263,6 +263,7 @@ async def itemsMinusDescription():
 
 #-----------------------------#
 
+#dealing with database
 
 
 
